@@ -1,6 +1,6 @@
 # Asistente de habilidades en Python
 
-Pequeño asistente de consola cuyas funcionalidades ("habilidades") son clases que se registran en un menú. Está pensado para practicar **programación orientada a objetos**: herencia, sobrescritura de métodos y polimorfismo. Proyecto de la asignatura **Programación** (1.º, Grado en Ingeniería de Sistemas de Datos, ETSIT-UPM).
+Pequeño asistente de consola cuyas funcionalidades ("habilidades") son clases que se registran en un menú. Está pensado para practicar **programación orientada a objetos**: herencia, sobrescritura de métodos y polimorfismo. Proyecto de la asignatura **Programación** (1.º, Grado en Ingeniería y Sistemas de Datos, ETSIT-UPM).
 
 ## Diseño
 
