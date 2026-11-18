@@ -1,6 +1,6 @@
 # Utilidades en Python
 
-Colección de funciones de utilidad en Python con un menú interactivo por consola. Proyecto de la asignatura **Programación** (1.º, Grado en Ingeniería de Sistemas de Datos, ETSIT-UPM).
+Colección de funciones de utilidad en Python con un menú interactivo por consola. Proyecto de la asignatura **Programación** (1.º, Grado en Ingeniería y Sistemas de Datos, ETSIT-UPM).
 
 ## Qué incluye
 
