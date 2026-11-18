@@ -1,6 +1,6 @@
 # Lista de la compra en Python
 
-Gestor de lista de la compra por consola, implementado de dos formas para comparar enfoques: con **funciones y diccionarios** y con **clases (programación orientada a objetos)**. Proyecto de la asignatura **Programación** (1.º, Grado en Ingeniería de Sistemas de Datos, ETSIT-UPM).
+Gestor de lista de la compra por consola, implementado de dos formas para comparar enfoques: con **funciones y diccionarios** y con **clases (programación orientada a objetos)**. Proyecto de la asignatura **Programación** (1.º, Grado en Ingeniería y Sistemas de Datos, ETSIT-UPM).
 
 ## Qué hace
 
