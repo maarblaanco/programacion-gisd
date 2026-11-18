@@ -1,6 +1,6 @@
 # Programación · GISD (ETSIT-UPM)
 
-Proyectos de la asignatura **Programación** del primer curso del Grado en Ingeniería de Sistemas de Datos (ETSIT, Universidad Politécnica de Madrid). Los tres están hechos en Python, tienen tests automáticos con `unittest` y se ejecutan por consola.
+Proyectos de la asignatura **Programación** del primer curso del Grado en Ingeniería y Sistemas de Datos (ETSIT, Universidad Politécnica de Madrid). Los tres están hechos en Python, tienen tests automáticos con `unittest` y se ejecutan por consola.
 
 | Carpeta | Qué es | Qué practica |
 |---|---|---|
